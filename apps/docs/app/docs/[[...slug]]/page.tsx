@@ -26,6 +26,9 @@ export default async function Page(props: {
         // includeSeparator: true,
       }}
       toc={page.data.toc}
+      tableOfContent={{
+        style: "clerk",
+      }}
       full={page.data.full}
     >
       <DocsTitle>{page.data.title}</DocsTitle>
