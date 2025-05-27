@@ -1,5 +1,5 @@
 import type { BaseLayoutProps } from "fumadocs-ui/layouts/shared";
-import { GithubIcon, TerminalIcon } from "lucide-react";
+import { TerminalIcon } from "lucide-react";
 
 /**
  * Shared layout configurations
